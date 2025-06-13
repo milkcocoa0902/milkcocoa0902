@@ -15,7 +15,7 @@
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,gradle,idea,androidstudio,cpp,py,django,fastapi,flask,nodejs,deno,js,html,css,nextjs,aws,firebase,cloudflare,docker,postman,redis,postgres)](https://skillicons.dev)
 
+## GitHub Analytics
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkcocoa0902&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide=C,Objective-C,Ruby,Assembly&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkcocoa0902&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide=C,Objective-C,Ruby,Assembly&langs_count=8)  
 ![milkcocoa0902's github stats](https://github-readme-stats.vercel.app/api?username=milkcocoa0902&show_icons=true&theme=radical&layout=compact)
